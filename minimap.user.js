@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Pixelzone Minimap
+// @name         TurkishArmy
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  Pixelzone Minimap
-// @author       olegispe#2453
+// @description  TurkishArmy
+// @author       ?
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/EmirKayaZ/T-RKishArmyM/
