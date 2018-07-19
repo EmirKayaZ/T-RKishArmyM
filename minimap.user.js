@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  TurkishArmy
-// @author       Emir Kaya
+// @author       Emir KayaZZ
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/EmirKayaZ/T.r.Z.o.n.e/
