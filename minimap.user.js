@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Turkey Zone Mini Map
+// @name         TurkishArmy
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  Turkey Zone Mini Map
+// @description  TurkishArmy
 // @author       Emir Kaya
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
