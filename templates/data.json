@@ -1,37 +1,9 @@
 {
-  "TrArmy": {
-    "name": "TrArmy.png",
-    "x": 2338,
+    "TurkishArmy": {
+    "name": "TurkishArmy.png",
+    "x": 2507,
     "y": -987,
-    "width": 497,
-    "height": 133
-   },
-  "SaldrBayragi": {
-    "name": "SaldrBayragi.png",
-    "x": 2328,
-    "y": -1238,
-    "width": 345,
-    "height": 244
-   },
-    "trsarmy": {
-    "name": "trsarmy.png",
-    "x": 303,
-    "y": -783
-    "width": 444,
-    "height": 258
-   },
-    "15Temmuz": {
-    "name": "15Temmuz.png",
-    "x": 1142,
-    "y": -211
-    "width": 222,
-    "height": 230
-   },
-  "CentralTurkeyFlag": {
-    "name": "CentralTurkeyFlag.png",
-    "x": 862,
-    "y": -505,
-    "width": 327,
-    "height": 217
+    "width": 616,
+    "height": 337
   }
 }
